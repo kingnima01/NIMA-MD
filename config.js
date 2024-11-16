@@ -15,7 +15,7 @@ module.exports = {
   // public = AnyOne Working
   // inbox = Only Working  Inbox
   // groups = only working in group
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "94718913389",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "94769268470",
   //========================================- OTHER - CONFIGS -=====================================================================
   AUTO_VOICE: process.env.AUTO_VOICE || "true",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
@@ -49,23 +49,23 @@ module.exports = {
 //------------------------------------------------------------------------------------------------------------------
 
   
-  START_MSG: process.env.START_MSG || `🚀 *_SAHAS-MD Connected Successfully!_* ✅ 
+  START_MSG: process.env.START_MSG || `🚀 *_NIMA-MD Connected Successfully!_* ✅ 
 
---- *👨‍💻🎉 _Welcome to SAHAS-MD!_* 🎉💗 
+--- *👨‍💻🎉 _Welcome to NIMA-MD!_* 🎉💗 
 
-*🔹 OWNER:* 94718913389
+*🔹 OWNER:* 94769268470
 
-_Thank you for using_ *👨‍💻SAHAS-MD💗.*
+_Thank you for using_ *👨‍💻NIMA-MD💗.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
-*🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029VaiTjMlK5cDLek3bB533
+*🖇️Join My WhatsApp Channel✓💗 - :* https://whatsapp.com/channel/0029VaqBgaQDzgT9SSd4A834
 
-*🖇️Subscribe My Youtube Channel✓💗 - :* https://www.youtube.com/@Sahas_Tech
+*🖇️Subscribe My Youtube Channel✓💗 - :* https://rcd-github-real.github.io/dark-nima/
 
-*🖇️Fork & Star My Repo✓💗 - :* https://github.com/SahasTech22/SAHAS-MD
+*🖇️Fork & Star My Repo✓💗 - :* https://rcd-github-real.github.io/dark-nima/
 
-*🖇️Follow My Github Account✓💗 - :* https://github.com/SahasTech22
+*🖇️Follow My Github Account✓💗 - :* https://rcd-github-real.github.io/dark-nima/
 
 _*👨‍💻 Enjoy your time with us! 😊*_
 
