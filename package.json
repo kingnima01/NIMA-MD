@@ -1,12 +1,12 @@
 {
-  "name": "SAHAS-MD",
+  "name": "NIMA-MD",
   "version": "1.0.0",
-  "description": "SAHAS-MD MULTI DEVICE WHATSAPP BOT BY SAHAS TECH",
+  "description": "NIMA-MD MULTI DEVICE WHATSAPP BOT BY NIMA TECH",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SAHAS-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name NIMA-MD",
     "stop": "pm2 stop SAHAS-MD",
-    "restart": "pm2 restart SAHAS-MD"
+    "restart": "pm2 restart NIMA-MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
